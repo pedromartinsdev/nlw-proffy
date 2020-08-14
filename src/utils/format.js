@@ -11,7 +11,7 @@ const subjects = [
   "Química",
 ]
 
-const weekdays = [
+const weekdays = [    
   "Domingo",
   "Segunda-feira",
   "Terça-feira",
