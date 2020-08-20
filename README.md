@@ -29,3 +29,13 @@ Visando também a comodidade as aulas podem ser marcadas via Whatsapp.
 - Node
 - Nunjucks
 - SQLite
+
+## :iphone: Como usar?
+
+* Para vizualizar e usar o projeto basta dar um ```git clone``` ou fazer o [Download](https://github.com/PedroMartinsCap/nlw-proffy/archive/master.zip) deste repositório.
+
+* Após isso navegue até a raiz do projeto e excute o comando ```npm install``` 
+
+* Agora abra o navegador e digite o seguinte endereço http://localhost:5500/
+
+
