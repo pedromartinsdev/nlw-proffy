@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img  width="200px" alt="ecoleta image" src="public/images/landing.svg"/>
+   <img  width="200px" alt="proffy image" src="public/images/landing.svg"/>
     <br>
     Proffy
 </h1>
@@ -17,7 +17,8 @@
 
 <p align="justify"> 
 Projeto desenvolvido durante o evento Next Level Week#2 da Rocketseat. <br>
-O Projeto tem o objetivo de permitir que professores se cadastrem no sistema e sejam encontrados por alunos. Visando a comodidade as aulas podem ser marcadas via Whatsapp.
+O Projeto tem o objetivo de permitir que professores se cadastrem no sistema e sejam encontrados por alunos. 
+Visando também a comodidade as aulas podem ser marcadas via Whatsapp.
 </p>
 
 ## :computer: Tecnologias
